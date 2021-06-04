@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'info@https://temp-prakhar-nodejs.herokuapp.com/contact.html';
+$email_from = 'info@temp-prakhar-nodejs.herokuapp.com';
 
 $email_subject = 'New Form Submission';
 
